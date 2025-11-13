@@ -1,5 +1,13 @@
 # 🛍️ E-commerce de Artesanato - MVP
 
+# 🛍️ E-commerce de Artesanato - MVP
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Node](https://img.shields.io/badge/node-v18+-green)
+![React](https://img.shields.io/badge/react-v18-blue)
+
+
 ## 📋 Sobre o Projeto
 Sistema de e-commerce fullstack desenvolvido para venda de produtos artesanais brasileiros, com foco em pequenos produtores e artesãos.
 
